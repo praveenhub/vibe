@@ -28,6 +28,7 @@ n = (n-3) + 1 + 1 + 1
 n = 1 + 1 + 1 + ... + 1
 
 For example, there are totally 7 ways to sum up to the number "5":
+
 5 = 5
 
 5 = 4 + 1
