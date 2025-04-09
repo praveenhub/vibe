@@ -1,3 +1,10 @@
+### MCP vs google (A2A)
+
+MCP is solving specific problems people have in practice today. LLMs need access to data that they weren't trained on, but that's really hard because there's a millions different ways you could RAG something. So MCP defines a standard by which LLMs can call APIs through clients. (and more).
+
+A2A solves a marketing problem that Google is chasing with technology partners.
+
+
 # Technical Debates on AI Agent Development: Key Insights 
 
 The recent technical debate about AI agents reveals critical challenges and emerging trends in autonomous system development. Below is an analysis of core technical arguments and projected directions for the field.
