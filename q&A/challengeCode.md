@@ -1,4 +1,4 @@
-"Total ways to sum up to a number"
+#### "Total ways to sum up to a number"
 
 Your solution will be scored against multiple hidden test cases, with a sample case being provided for your reference.
 The default code includes a mechanism for reading input strings. You will need to parse these strings into the appropriate variables as needed.
