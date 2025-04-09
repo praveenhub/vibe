@@ -65,21 +65,21 @@ Explanation: The first line in input "1" tells us how many numbers will be in to
 
 Sample Input:
 
-7
-1
-2
-3
-4
-5
-7
+ 7 <br>
+ 1 <br>
+ 2<br>
+ 3<br>
+ 4<br>
+ 5<br>
+ 7
 
 Sample Output:
 
-1
-2
-3
-5
-7
+1<br>
+2<br>
+3<br>
+5<br>
+7<br>
 15
 
 
