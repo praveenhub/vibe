@@ -9,23 +9,37 @@ Problem Description
 Write a program that calculates the total number of unique ways to sum up to a given positive integer n using one or more positive integers.
 
 For a given positive integer n, it can be summed up using one or more positive integers:
+
 n = n
+
 n = (n-1) + 1
+
 n = (n-2) + 2
+
 n = (n-2) + 1 + 1
+
 n = (n-3) + 3
+
 n = (n-3) + 2 + 1
+
 n = (n-3) + 1 + 1 + 1
 ....
+
 n = 1 + 1 + 1 + ... + 1
 
 For example, there are totally 7 ways to sum up to the number "5":
 5 = 5
+
 5 = 4 + 1
+
 5 = 3 + 2
+
 5 = 3 + 1 + 1
+
 5 = 2 + 2 + 1
+
 5 = 2 + 1 + 1 + 1
+
 5 = 1 + 1 + 1 + 1 + 1
 
 Note: 3+2 and 2+3 are counted as single possibility. We are only looking for unique combinations which contain numbers in strictly descending order.
@@ -50,6 +64,7 @@ Output:
 Explanation: The first line in input "1" tells us how many numbers will be in total. Then we calculate how many different ways we can sum up to number 5 - which is 7 (explanation given above).
 
 Sample Input:
+
 7
 1
 2
@@ -59,6 +74,7 @@ Sample Input:
 7
 
 Sample Output:
+
 1
 2
 3
