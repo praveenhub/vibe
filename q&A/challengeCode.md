@@ -68,7 +68,9 @@ Sample Output:
 
 
 Code Template
-python# Use urllib.request to send network request if needed.
+python# 
+
+# Use urllib.request to send network request if needed.
 import fileinput
 
 inputData = ''
