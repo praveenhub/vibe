@@ -12,13 +12,13 @@ But here’s the cold truth:
 
 ---
 
-### 👉 Feeling unqualified?  
+#### 👉 Feeling unqualified?  
 So does everyone at some point.  
 
-### 👉 Think you’ll get rejected?  
+#### 👉 Think you’ll get rejected?  
 Maybe. But you’ll grow.  
 
-### 👉 Afraid to fail?  
+#### 👉 Afraid to fail?  
 Sure. But what if you fly?
 
 ---
